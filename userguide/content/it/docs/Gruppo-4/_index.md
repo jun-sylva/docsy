@@ -20,6 +20,13 @@ Il gruppo 4 é composto da:
 
 La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [https://docs.google.com/document/d/1s9GVQ5Ec2FwZLzwS-QTGZL630YdmnYximdFJs3nvQpk/edit](url)
 
+## I Questionari
+
+Brevi questionari per l analisi
+   *Questionario per fornitori [clicca qui](https://docs.google.com/forms/d/1ud7hZY87u0ZMW3EAor1Sn7mf1tCW0fvomSucpJFdOGw/edit)
+   *Questionario per clienti [clicca qui](https://docs.google.com/forms/d/1Nhnh4RA50PyjfHgIB-R2aqNqjITwZqLkX1x9g-hsrNk/edit)
+   *Questionario per pizzerie e gastronomie [clicca qui](https://docs.google.com/forms/d/1Mc4zqXdBTj5ZbamHre090DA26XC-2J4IQpoXMx_X3uI/edit)
+
 Ultimo aggiornamento in data 14/06/2020
 
 ---
